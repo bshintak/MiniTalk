@@ -63,11 +63,11 @@ int	main(int argc, char **argv)
 		ft_printf("\e[31mError\n\e[0mWrong number of arguments 🥺\n");
 		return (0);
 	}
-	// if (checker_number(argv[1]) == 1)
-	// {
-	// 	ft_printf("\e[31mError\n\e[0mWrong pid 🥺\n");
-	// 	return (0);
-	// }
+	if (checker_number(argv[1]) == 1)
+	{
+		ft_printf("\e[31mError\n\e[0mWrong pid 🥺\n");
+		return (0);
+	}
 	if (argc == 3)
 	{
 		pid = ft_atoi_libft(argv[1]);
