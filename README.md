@@ -13,10 +13,11 @@ The instructions were given in the [subject](https://github.com/bshintak/Minital
  ### Mandatory
 
 - Produce `server` & `client` executables
-- `client` must communicate a string passed as a parameter to `server` *(referenced by its process ID)* which then displays it
-- Use `SIGUSR1` & `SIGUSR2` signals **ONLY**
+- `client` must communicate a string passed as a parameter to `server`
+- `server` must display the message passed by the `client`
+- Use `SIGUSR1` & `SIGUSR2`
 
 ### Bonus
 
-- Add reception acknowledgement system
+- The server acknowledges every message received by sending back a signal to the client
 - Support Unicode characters
