@@ -19,5 +19,4 @@ The instructions were given in the [subject](https://github.com/bshintak/Minital
 
 ### Bonus
 
-- The server acknowledges every message received by sending back a signal to the client
 - Support Unicode characters
