@@ -4,6 +4,7 @@
  
  [![Stars](https://img.shields.io/github/stars/bshintak/Minitalk?color=ffff00&label=Stars&logo=Stars&style=?style=flat)](https://github.com/bshintak/Minitalk)
  [![Size](https://img.shields.io/github/repo-size/bshintak/Minitalk?color=blue&label=Size&logo=Size&style=?style=flat)](https://github.com/bshintak/Minitalk)
+ ![Lines of code](https://img.shields.io/tokei/lines/github/bshintak/Minitalk?color=blueviolet)
  [![Activity](https://img.shields.io/github/last-commit/bshintak/Minitalk?color=red&label=Last%20Commit&style=flat)](https://github.com/bshintak/Minitalk)
 
 Project of the school 42 that you must create a communication program in the form of a client and a server.
